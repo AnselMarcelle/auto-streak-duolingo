@@ -6,19 +6,19 @@ const headers = {
 
 const SESSION_PAYLOAD = {
   "challengeTypes": ["assist", "characterIntro", "characterMatch", "characterPuzzle", "characterSelect", "characterTrace", "completeReverseTranslation", "definition", "dialogue", "form", "freeResponse", "gapFill", "judge", "listen", "listenComplete", "listenMatch", "match", "name", "listenComprehension", "listenIsolation", "listenTap", "partialListen", "partialReverseTranslate", "patternTapComplete", "readComprehension", "select", "selectPronunciation", "selectTranscription", "syllableTap", "syllableListenTap", "speak", "tapCloze", "tapClozeTable", "tapComplete", "tapCompleteTable", "tapDescribe", "translate", "transliterate", "typeCloze", "typeClozeTable", "typeCompleteTable", "writeComprehension"],
-  "fromLanguage": "en",
+  "fromLanguage": "ru",
   "isFinalLevel": false,
   "isV2": true,
   "juicy": true,
-  "learningLanguage": "ja",
+  "learningLanguage": "en",
   "smartTipsVersion": 2,
   "isCustomIntroSkill": false,
   "isGrammarSkill": false,
-  "levelIndex": 0,
+  "levelIndex": 1,
   "showGrammarSkillSplash": false,
-  "skillId": "060ce4633b12e01d03c5baa22fddd7ab",
+  "skillId": "133b87032226672599317bdb6bc3cc99",
   "type": "LESSON",
-  "levelSessionIndex": 0
+  "levelSessionIndex": 1
 };
 
 const {
